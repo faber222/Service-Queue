@@ -9,19 +9,19 @@
 <h1 align="center">FBJ-ISV</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{mmsobral-croom/FBJ-ISV/?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mmsobral-croom/FBJ-ISV/?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{mmsobral-croom/FBJ-ISV/?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mmsobral-croom/FBJ-ISV/?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{mmsobral-croom/FBJ-ISV/?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mmsobral-croom/FBJ-ISV/?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{mmsobral-croom/FBJ-ISV/?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/mmsobral-croom/FBJ-ISV/?color=56BEB8">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/{mmsobral-croom/FBJ-ISV/?color=56BEB8" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/mmsobral-croom/FBJ-ISV/?color=56BEB8" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/{mmsobral-croom/FBJ-ISV/?color=56BEB8" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/mmsobral-croom/FBJ-ISV/?color=56BEB8" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/{mmsobral-croom/FBJ-ISV/?color=56BEB8" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/mmsobral-croom/FBJ-ISV/?color=56BEB8" /> 
 </p>
 
  Status 
@@ -86,7 +86,7 @@ $ cd FBJ-ISV
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/mmsobral-croom/FBJ-ISV.git" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/mmsobral-croom/FBJ-ISV.git" target="_blank">FBJ-ISV</a>
 
 &#xa0;
 

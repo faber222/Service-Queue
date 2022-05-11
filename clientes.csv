@@ -1,3 +1,8 @@
-A,3,10,Consulta a contrato
-B,1,6,Abertura de cadastro
-C,2,6,Quitacao de contrato
+A,1,1,Consulta a contrato
+B,2,6,Abertura de cadastro
+C,3,6,Quitacao de contrato
+D,4,6,Quitacao de boleto
+E,5,6,Quitacao de carro
+F,6,6,Quitacao de luz
+G,7,6,Quitacao de agua
+H,8,6,Quitacao de gas

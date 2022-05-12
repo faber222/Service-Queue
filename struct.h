@@ -38,5 +38,6 @@ typedef struct {
 list<info> filas;
 list<info2> clientes;
 list<senha_cliente> senhas;
+// FICA O ADENDO QUE FILA, REPRESENTA O NOME DE UMA LISTA
 
 #endif  // PROJETO1_2

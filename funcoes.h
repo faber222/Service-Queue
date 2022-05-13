@@ -94,6 +94,7 @@ info2 adicionar_cliente(int classificacao) {
 // tela as senhas disponiveis, baseando apenas na letra e o numero
 // correspondente para ser selecionado
 void retirar_senha(int &num) {
+  string entrada;
   int x = 1;
   cout << "+-----------------------------------------------+" << endl;
   cout << "|               RETIRE A SUA SENHA:             |" << endl;
@@ -114,7 +115,11 @@ void retirar_senha(int &num) {
   cout << "|          PARA CHAMAR ALGUEM, DIGITE 0         |" << endl;
   cout << "+-----------------------------------------------+" << endl;
   cout << "                  SUA OPCAO: ";
-  cin >> num;
+  getline(cin, entrada);
+  if(entrada.find_first_of("0123456789") == string::npos)
+    num = filas.size()+1;
+  else
+    num = stoi(entrada);
   cout << endl;
 }
 

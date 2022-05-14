@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://fbjisv.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">FBJ-ISV</h1>
@@ -27,7 +26,7 @@
  Status 
 
  <h4 align="center"> 
-	🚧  FBJ-ISV 🚀 Under construction...  🚧
+	🚧  FBJ-ISV 🚀 Finished  🚧
 </h4> 
 
 <hr> 
@@ -78,6 +77,15 @@ $ git clone https://github.com/mmsobral-croom/FBJ-ISV.git
 
 # Access
 $ cd FBJ-ISV
+
+# Deploy the code
+$ g++ main.cpp -o {ESCOLHA O NOME}
+
+# Run the code on windows
+$ {ESCOLHA O NOME}.exe clientes.csv
+
+# Run the code on Linux
+$ ./{ESCOLHA O NOME}.out clientes.csv
 
 ```
 

@@ -23,8 +23,6 @@
    <img alt="Github stars" src="https://img.shields.io/github/stars/faber222/FBJ-ISV?color=56BEB8" /> 
 </p>
 
- Status 
-
  <h4 align="center"> 
 	🚧  FBJ-ISV 🚀 Finished  🚧
 </h4> 
@@ -51,11 +49,6 @@ Our code is intended to discover routes on a map to calculate the shortest path 
 
 We will read a .CSV file, and based on it, we will run our code
 
-## :sparkles: Features ##
-
-:heavy_check_mark: Discover routes on a map;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 
